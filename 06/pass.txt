@@ -1,0 +1,12 @@
+123123 -> "sha512" -> asdf8asdf87as9d8f7a08sd7fa8s7df
+123123 -> "sha512" -> asdf8asdf87as9d8f7a08sd7fa8s7df
+123123 -> "sha512" -> asdf8asdf87as9d8f7a08sd7fa8s7df
+
+
+// salt
+123123@asdf76as9d876fa7s6df -> "sha512"
+    -> asfsadf8as7df987as0df97as908fd7a90s87df9
+
+123123@sadf8asdf987asdf -> "sha512"
+    -> asdfajsdfjkhf4hf3f987sa9dfhja;skdfhkasd
+
